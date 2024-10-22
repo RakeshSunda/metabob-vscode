@@ -1,5 +1,3 @@
-# Metabob: Generative AI for debugging & refactoring code
-
 Metabob is an AI-based code review tool that utilizes a combination of Graph Neural Networks (GNNs) and Generative AI (LLMs).  Using the underlying techniques, Metabob can detect complex logical problems and vulnerabilities, as well as general opportunities for code quality improvements. Metabob explains its detections in natural language and can generate code recommendations to fix the detections using an integrated fine-tuned LLM. 
 ​
 # Supported Languages
